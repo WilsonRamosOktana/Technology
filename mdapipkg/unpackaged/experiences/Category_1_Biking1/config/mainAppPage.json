@@ -1,0 +1,11 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "d6618682-dd4a-418a-84a4-769d99673543",
+  "headMarkup" : null,
+  "id" : "9e7f028e-f4c7-4165-af46-f534174ec870",
+  "isLockerServiceEnabled" : true,
+  "isRelaxedCSPLevel" : true,
+  "label" : "main",
+  "templateName" : "Service Community Template",
+  "type" : "appPage"
+}
